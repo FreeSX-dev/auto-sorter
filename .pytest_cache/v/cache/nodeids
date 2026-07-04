@@ -1,0 +1,5 @@
+[
+  "tests/test_sorter.py::test_category_for_images",
+  "tests/test_sorter.py::test_plan_moves_avoids_name_collision",
+  "tests/test_sorter.py::test_plan_moves_by_type"
+]
